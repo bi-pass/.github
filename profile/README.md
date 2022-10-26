@@ -3,7 +3,7 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 ## Easily on/offboard your 
 
-🚉 Train passes are supercharged 
+🚉 Train passes are supercharged with the power of dapps.
 
 🚎 The bus is included in the travel log options. 
 
