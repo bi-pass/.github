@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197379955-1ec39069-5720-4688-8c4e-13c677ccc322.png" height="35" width="35" align-items="center" justify-content="center" /> bi-pass
 It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Easily on/offboard your 
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🚉 Train passes are supercharged 
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🚎 The bus is included in the travel log options. 
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🛅 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
 
-🚩 Be the FIRST to get the latest and the greatest.
+💺 Enjoy The Public services provided to bi-pass members (Global WiFi).
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
